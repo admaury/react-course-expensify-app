@@ -10,13 +10,7 @@ import "normalize.css/normalize.css";
 import "./styles/styles.scss";
 import "react-dates/lib/css/_datepicker.css";
 
-
 const store = configureStore();
-// store.dispatch(setTextFilter("water"));
-
-// setTimeout(() => {
-//   store.dispatch(setTextFilter("gas"));
-// }, 3000);
 
 const jsx = (
   <Provider store={store}>
