@@ -3,7 +3,7 @@
 exports[`should render ExpenseList with expenses 1`] = `
 <div>
   <ExpenseListItem
-    amount={1095}
+    amount={195}
     createdAt={0}
     description="Gum"
     id="1"
